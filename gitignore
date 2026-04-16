@@ -1,0 +1,37 @@
+# Generated outputs — these are produced by running the pipeline scripts
+dota_matches_history.csv
+dota_matches_history_w_rank.csv
+filtered_matches.csv
+hero_stats.csv
+player_stats.csv
+player_stats_updated.csv
+account_ranks_updated.csv
+acc_id_ld_final.csv
+index.html
+
+# OBS tracker state files written by dota_obs.py
+match_history.json
+current_mmr_value.json
+current_mmr.txt
+streak.txt
+winrate.txt
+hero_stats.txt
+item_stats.txt
+session_stats.txt
+
+# Icon directories — download separately (see README)
+hero_icons/
+dota2_icons/
+facet_icons/
+role_icons/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
