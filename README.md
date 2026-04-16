@@ -182,9 +182,3 @@ PyAutoGUI's failsafe is enabled: moving the mouse to any screen corner stops the
 - Match records where net-worth leader and Radiant Win Chance disagree are excluded from the site — they were captured during a comeback, before the lead changed.
 - The Wilson Score for hero ratings is the lower bound of a 95% confidence interval on win rate. It naturally ranks heroes with few games below those with more data, even if their raw win rate looks high.
 - `spectator.py` requires Dota 2 to be running in windowed or borderless-windowed mode with the Watch tab visible and no other windows on top.
-
----
-
-## License
-
-MIT
