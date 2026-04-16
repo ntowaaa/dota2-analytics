@@ -1,0 +1,514 @@
+{
+  "enigma": {
+    "Splitting Image": "summons",
+    "Event Horizon": "slow"
+  },
+  "winter_wyvern": {
+    "Winterproof": "tower",
+    "Recursive": "ricochet"
+  },
+  "visage": {
+    "Sepulchre": "area_of_effect",
+    "Death Toll": "gold",
+    "Faithful Followers": "summons"
+  },
+  "dazzle": {
+    "Nothl Boon": "armor",
+    "Poison Bloom": "ricochet"
+  },
+  "invoker": {
+    "Scholar of Koryx": "invoker_quas",
+    "Mind of Tornarus": "invoker_wex",
+    "Agent of Gallaron": "invoker_exort"
+  },
+  "broodmother": {
+    "Necrotic Webs": "web",
+    "Feeding Frenzy": "summons"
+  },
+  "treant": {
+    "Uprooted": "tree"
+  },
+  "omniknight": {
+    "Omnipresent": "damage",
+    "Healing Hammer": "healing"
+  },
+  "arc_warden": {
+    "Power Capture": "rune",
+    "Runed Replica": "arc_warden_alt"
+  },
+  "clinkz": {
+    "Trial By Pyre": "nuke"
+  },
+  "razor": {
+    "Thunderhead": "barrier",
+    "Dynamo": "nuke"
+  },
+  "meepo": {
+    "More Meepo": "summons",
+    "Codependent": "illusion"
+  },
+  "faceless_void": {
+    "Time Zone": "chrono_cube",
+    "Chronosphere": "area_of_effect"
+  },
+  "nyx_assassin": {
+    "Scuttle": "speed",
+    "Mana Burn": "nuke"
+  },
+  "elder_titan": {
+    "Deconstruction": "armor_broken",
+    "Momentum": "damage"
+  },
+  "bounty_hunter": {
+    "Through and Through": "nuke",
+    "Cutpurse": "gold"
+  },
+  "largo": {
+    "Musical pilgrimage": "guitar"
+  },
+  "legion_commander": {
+    "Spoils of War": "damage",
+    "Stonehall Plate": "armor"
+  },
+  "wisp": {
+    "Medigun": "armor",
+    "Kritzkrieg": "damage"
+  },
+  "lycan": {
+    "Pack Leader": "summons",
+    "Alpha Wolves": "wolf",
+    "Spirit Wolves": "spirit"
+  },
+  "drow_ranger": {
+    "Sidestep": "multi_arrow",
+    "Vantage Point": "damage"
+  },
+  "marci": {
+    "Buddy System": "twin_hearts",
+    "Pick-me-up": "ricochet"
+  },
+  "chaos_knight": {
+    "Irrationality": "rng",
+    "Fundamental Forging": "item",
+    "Cloven Chaos": "ricochet"
+  },
+  "phoenix": {
+    "Dying Light": "barrier",
+    "Hotspot": "nuke"
+  },
+  "shadow_shaman": {
+    "Chicken Fingers": "chicken",
+    "Massive Serpent Ward": "snake"
+  },
+  "huskar": {
+    "Cauterize": "broken_chain",
+    "Incendiary": "damage"
+  },
+  "leshrac": {
+    "Misanthropy": "nuke",
+    "Chronoptic Nourishment": "mana"
+  },
+  "spirit_breaker": {
+    "Bull Rush": "speed",
+    "Bull's Hit": "rng"
+  },
+  "rattletrap": {
+    "Expanded Armature": "area_of_effect",
+    "Hookup": "cooldown",
+    "Chainmeal": "armor"
+  },
+  "slark": {
+    "Fugitive": "broken_chain"
+  },
+  "lich": {
+    "Evil Eye": "vision",
+    "Growing Cold": "cooldown"
+  },
+  "earth_spirit": {
+    "Reformation": "spinning"
+  },
+  "phantom_lancer": {
+    "Fractured": "phantom_lance"
+  },
+  "templar_assassin": {
+    "Refractor": "damage",
+    "Voidblades": "ricochet",
+    "Hidden Reach": "range"
+  },
+  "keeper_of_the_light": {
+    "Solar Bind": "slow",
+    "Recall": "teleport"
+  },
+  "vengefulspirit": {
+    "Avenging Missile": "nuke",
+    "Soul Strike": "fist"
+  },
+  "bane": {
+    "Sleepwalk": "movement",
+    "Dream Stalker": "damage"
+  },
+  "disruptor": {
+    "Thunderstorm": "area_of_effect",
+    "Transference": "vortex_out",
+    "Kinetic Fence": "fence"
+  },
+  "venomancer": {
+    "Plague Carrier": "summons",
+    "Patient Zero": "snot"
+  },
+  "pugna": {
+    "Siphoning Ward": "healing",
+    "Rewards of Ruin": "siege"
+  },
+  "magnataur": {
+    "Diminishing Return": "ricochet",
+    "Eternal Empowerment": "empower"
+  },
+  "lion": {
+    "Essence Eater": "nuke",
+    "Fist of Death": "fist"
+  },
+  "life_stealer": {
+    "Gorestorm": "area_of_effect",
+    "Fleshfeast": "full_heart"
+  },
+  "undying": {
+    "Rotting Mitts": "summons",
+    "Ripped": "strength"
+  },
+  "obsidian_destroyer": {
+    "Obsidian Decimator": "mana",
+    "Overwhelming Devourer": "healing"
+  },
+  "dark_willow": {
+    "Throwing Shade": "damage",
+    "Shattering Crown": "barrier"
+  },
+  "nevermore": {
+    "Lasting Presence": "armor_broken",
+    "Shadowmire": "slow"
+  },
+  "naga_siren": {
+    "Rip Tide": "armor_broken",
+    "Deluge": "nuke"
+  },
+  "primal_beast": {
+    "Ferocity": "area_of_effect",
+    "Provoke the Beast": "broken_chain"
+  },
+  "ogre_magi": {
+    "Learning Curve": "ogre",
+    "Fat Chance": "rng"
+  },
+  "brewmaster": {
+    "Hungover": "bubbles"
+  },
+  "pudge": {
+    "Fresh Meat": "meat",
+    "Rotten Core": "fist"
+  },
+  "juggernaut": {
+    "Bladeform": "agility",
+    "Bladestorm": "spinning"
+  },
+  "oracle": {
+    "Clairvoyant Cure": "healing",
+    "Clairvoyant Curse": "nuke"
+  },
+  "ancient_apparition": {
+    "Bone Chill": "debuff",
+    "Exposure": "area_of_effect"
+  },
+  "void_spirit": {
+    "Sanctuary": "armor",
+    "Call of the Void": "illusion"
+  },
+  "ursa": {
+    "Bear Down": "cooldown",
+    "Grudge Bearer": "damage"
+  },
+  "puck": {
+    "Curveball": "curve_ball",
+    "Jostling Rift": "movement"
+  },
+  "chen": {
+    "Hellbear Convert": "slow",
+    "Centaur Convert": "area_of_effect",
+    "Satyr Convert": "mana",
+    "Troll Convert": "summons",
+    "Marshmage Convert": "bubbles"
+  },
+  "lone_druid": {
+    "Forbearance": "overshadow"
+  },
+  "night_stalker": {
+    "Night Reign": "moon",
+    "Voidbringer": "area_of_effect"
+  },
+  "riki": {
+    "Cutthroat": "execute"
+  },
+  "bloodseeker": {
+    "Arterial Spray": "movement",
+    "Old Blood": "debuff"
+  },
+  "storm_spirit": {
+    "Static Slide": "movement",
+    "Shock Collar": "nuke"
+  },
+  "mirana": {
+    "Starstruck": "no_vision",
+    "Leaps and Bounds": "slow"
+  },
+  "queenofpain": {
+    "Bondage": "twin_hearts",
+    "Masochist": "nuke"
+  },
+  "alchemist": {
+    "Dividends": "aghs",
+    "Seed Money": "gold",
+    "Mixologist": "cooldown"
+  },
+  "tusk": {
+    "Tag Team": "damage",
+    "Drinking Buddies": "movement"
+  },
+  "tinker": {
+    "Translocator": "movement",
+    "Repair Bots": "healing"
+  },
+  "crystal_maiden": {
+    "Glacial Guard": "armor",
+    "Arcane Overflow": "mana"
+  },
+  "shadow_demon": {
+    "Promulgate": "nuke",
+    "Shadow Servant": "illusion"
+  },
+  "rubick": {
+    "Arcane Accumulation": "area_of_effect",
+    "Frugal Filch": "mana"
+  },
+  "weaver": {
+    "Skitterstep": "speed",
+    "Hivemind": "xp"
+  },
+  "slardar": {
+    "Leg Day": "speed",
+    "Brineguard": "armor"
+  },
+  "batrider": {
+    "Arsonist": "damage",
+    "Stoked": "nuke"
+  },
+  "kunkka": {
+    "High Tide": "cooldown",
+    "Grog Blossom": "armor"
+  },
+  "dark_seer": {
+    "Quick Wit": "damage",
+    "Heart of Battle": "speed"
+  },
+  "witch_doctor": {
+    "Malpractice": "nuke",
+    "Cleft Death": "death_ward"
+  },
+  "tidehunter": {
+    "Kraken Swell": "armor",
+    "Krill Eater": "overshadow"
+  },
+  "skywrath_mage": {
+    "Shield of the Scion": "armor",
+    "Staff of the Scion": "cooldown"
+  },
+  "necrolyte": {
+    "Profane Potency": "area_of_effect",
+    "Rapid Decay": "speed"
+  },
+  "death_prophet": {
+    "Spirit Collector": "spirit",
+    "Mourning Ritual": "healing"
+  },
+  "ringmaster": {
+    "Carny Classics": "whoopee_cushion",
+    "Sideshow Secrets": "pie"
+  },
+  "hoodwink": {
+    "Go Nuts": "range",
+    "Hipshot": "cooldown"
+  },
+  "abaddon": {
+    "The Quickening": "cooldown",
+    "Malignant Mist": "phantom_ass_dagger"
+  },
+  "luna": {
+    "Moonstorm": "damage",
+    "Moonshield": "armor"
+  },
+  "grimstroke": {
+    "Fine Art": "brush",
+    "Inkstigate": "area_of_effect"
+  },
+  "centaur": {
+    "Horsepower": "speed",
+    "Counter-Strike": "nuke"
+  },
+  "windrunner": {
+    "Tangled": "tree",
+    "Killshot": "execute"
+  },
+  "antimage": {
+    "Mana Thirst": "mana",
+    "Magebane's Mirror": "ricochet"
+  },
+  "skeleton_king": {
+    "Bone Guard": "summons",
+    "Spectral Blade": "damage"
+  },
+  "spectre": {
+    "Ephemeral": "spirit"
+  },
+  "viper": {
+    "Caustic Bath": "armor",
+    "Poison Burst": "area_of_effect"
+  },
+  "medusa": {
+    "Venomous Volley": "slow",
+    "Engorged": "snake",
+    "Undulation": "speed"
+  },
+  "axe": {
+    "One Man Army": "strength",
+    "Call Out": "armor"
+  },
+  "lina": {
+    "Slow Burn": "nuke",
+    "Thermal Runaway": "damage"
+  },
+  "earthshaker": {
+    "Tectonic Buildup": "area_of_effect",
+    "Resonating Ridge": "ricochet"
+  },
+  "abyssal_underlord": {
+    "Demon's Reach": "area_of_effect",
+    "Abyssal Horde": "summons"
+  },
+  "snapfire": {
+    "Full Bore": "range",
+    "Ricochet II": "ricochet"
+  },
+  "beastmaster": {
+    "Wild Hunt": "summons",
+    "Beast Mode": "damage"
+  },
+  "enchantress": {
+    "Spellbound": "range",
+    "Overprotective Wisps": "healing"
+  },
+  "sand_king": {
+    "Sandblast": "no_vision",
+    "Final Sting": "area_of_effect"
+  },
+  "dawnbreaker": {
+    "Trailblazer": "speed2",
+    "Solar Charged": "cooldown",
+    "Starsurge": "fist"
+  },
+  "zuus": {
+    "Livewire": "range",
+    "Divine Rampage": "nuke"
+  },
+  "sniper": {
+    "Ghillie Suit": "vision",
+    "Scattershot": "nuke"
+  },
+  "mars": {
+    "Victory Feast": "healing",
+    "Blood Sport": "no_vision"
+  },
+  "warlock": {
+    "Black Grimoire": "xp",
+    "Champion of Gorroth": "summons"
+  },
+  "morphling": {
+    "Ebb": "agility",
+    "Flow": "strength"
+  },
+  "tiny": {
+    "Crash Landing": "nuke",
+    "Insurmountable": "armor"
+  },
+  "ember_spirit": {
+    "Chain Gang": "debuff",
+    "Double Impact": "fist"
+  },
+  "jakiro": {
+    "Twin Terror": "damage",
+    "Ice Breaker": "snowflake"
+  },
+  "pangolier": {
+    "Dangerous Liaisons": "cooldown"
+  },
+  "kez": {
+    "Flutter": "kez_flutter",
+    "Shadowhawk": "kez_shadowhawk"
+  },
+  "monkey_king": {
+    "Changing of the Guard": "summons",
+    "Simian Stride": "tree"
+  },
+  "phantom_assassin": {
+    "Sweet Release": "phantom_ass_dagger",
+    "Methodical": "skull"
+  },
+  "sven": {
+    "Wrath of God": "strength",
+    "Heavy Plate": "armor"
+  },
+  "silencer": {
+    "Suffer In Silence": "debuff",
+    "Synaptic Split": "ricochet"
+  },
+  "techies": {
+    "Spleen's Secret Sauce": "nuke",
+    "Spoon's Stash": "item",
+    "Squee's Scope": "range"
+  },
+  "dragon_knight": {
+    "Corrosive Dragon": "dragon_poison",
+    "Fire Dragon": "dragon_fire",
+    "Frost Dragon": "dragon_frost"
+  },
+  "doom_bringer": {
+    "Gluttony": "meat",
+    "Impending Doom": "cooldown"
+  },
+  "muerta": {
+    "Quickdraw": "ricochet",
+    "Dance of the Dead": "spirit"
+  },
+  "troll_warlord": {
+    "Insensitive": "armor",
+    "Bad Influence": "damage"
+  },
+  "shredder": {
+    "Shredder": "tree",
+    "Twisted Chakram": "spinning"
+  },
+  "gyrocopter": {
+    "Afterburner": "speed",
+    "Secondary Strikes": "nuke"
+  },
+  "furion": {
+    "Soothing Saplings": "healing",
+    "Nature's Profit": "gold"
+  },
+  "bristleback": {
+    "Seeing Red": "no_vision",
+    "Snot Rocket": "snot"
+  },
+  "terrorblade": {
+    "Condemned": "twin_hearts",
+    "Soul Fragment": "illusion"
+  }
+}

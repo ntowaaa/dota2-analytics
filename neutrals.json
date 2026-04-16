@@ -1,0 +1,64 @@
+{
+  "neutral_items": {
+    "tier_1": [
+      "Chipped Vest",
+      "Possessed Mask",
+      "Occult Bracelet",
+      "Dagger of Ristul",
+      "Duelist Gloves",
+      "Pollywog Charm",
+      "Dormant Curio",
+      "Kobold Cup",
+      "Ash Legion Shield",
+      "Weighted Dice",
+      "Forager's Kit",
+      "Stonefeather Satchel"
+    ],
+    "tier_2": [
+      "Medallion of Courage",
+      "Poor Man's Shield",
+      "Essence Ring",
+      "Tumbler's Toy",
+      "Seeds of Serenity",
+      "Defiant Shell",
+      "Mana Draught",
+      "Searing Signet",
+      "Crippling Crossbow"
+    ],
+    "tier_3": [
+      "Cloak of Flames",
+      "Stormcrafter",
+      "Psychic Headband",
+      "Gunpowder Gauntlet",
+      "Serrated Shiv",
+      "Unrelenting Eye",
+      "Jidi Pollen Bag",
+      "Partisan's Brand",
+      "Spellslinger"
+    ],
+    "tier_4": [
+      "Dandelion Amulet",
+      "Rattlecage",
+      "Giant's Maul",
+      "Flayer's Bota",
+      "Idol of Scree'Auk",
+      "Metamorphic Mandible",
+      "Conjurer's Catalyst",
+      "Enchanter's Bauble",
+      "Prophet's Pendulum"
+    ],
+    "tier_5": [
+      "Stygian Desolator",
+      "Spider Legs",
+      "Minotaur Horn",
+      "Fallen Sky",
+      "Book of the Dead",
+      "Witchbane",
+      "Dezun Bloodrite",
+      "Divine Regalia",
+      "Disgraced Regalia",
+      "Riftshadow Prism",
+      "Harmonizer"
+    ]
+  }
+}
